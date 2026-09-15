@@ -1,0 +1,16 @@
+{
+  "name": "plugin-probe-marketplace",
+  "owner": {
+    "name": "cti1650"
+  },
+  "metadata": {
+    "description": "プラグイン配布の挙動を確認するための最小marketplace"
+  },
+  "plugins": [
+    {
+      "name": "plugin-probe",
+      "source": "./",
+      "description": "呼ぶとOKと返すだけの検証用プラグイン"
+    }
+  ]
+}

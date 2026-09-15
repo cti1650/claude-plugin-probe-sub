@@ -1,0 +1,12 @@
+{
+  "name": "plugin-probe",
+  "description": "配布されたプラグインからスキルが読み込まれるかを確認するための最小プラグイン",
+  "version": "0.3.0",
+  "author": {
+    "name": "cti1650"
+  },
+  "homepage": "https://github.com/cti1650/claude-plugin-probe",
+  "repository": "https://github.com/cti1650/claude-plugin-probe",
+  "license": "MIT",
+  "keywords": ["probe", "plugin", "verification"]
+}
