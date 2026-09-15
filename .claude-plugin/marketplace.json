@@ -1,16 +1,16 @@
 {
-  "name": "plugin-probe-marketplace",
+  "name": "plugin-probe-sub-marketplace",
   "owner": {
     "name": "cti1650"
   },
   "metadata": {
-    "description": "プラグイン配布の挙動を確認するための最小marketplace"
+    "description": "プラグイン差し替えの挙動を確認するための最小marketplace（plugin-probe の対向）"
   },
   "plugins": [
     {
-      "name": "plugin-probe",
+      "name": "plugin-probe-sub",
       "source": "./",
-      "description": "呼ぶとOKと返すだけの検証用プラグイン"
+      "description": "呼ぶとOK-SUBと返すだけの検証用プラグイン"
     }
   ]
 }
